@@ -2,7 +2,7 @@
 
 The **"hand_written_devnagari_script_recognition"** repository is an open-source project focused on recognizing handwritten **Devanagari script** characters. Devanagari is the script used for writing several Indian languages, including Hindi, Marathi, and Sanskrit. The project aims to build machine learning models that can accurately identify handwritten characters in Devanagari script. It provides pre-processed datasets, training scripts, and evaluation tools for researchers and developers interested in character recognition. Contributions from the community are welcome, and the repository serves as a valuable resource for advancing research in this field.
 
-## Prerequisites & Installation Instructions
+## Prerequisites
 ![Matlab](https://img.shields.io/badge/Matlab-100000?style=for-the-badge&logo=Matlab&logoColor=EA0606&labelColor=EA0A0A&color=EA0E0E)
 
 ## How to use 
