@@ -20,18 +20,20 @@ The **"hand_written_devnagari_script_recognition"** repository is an open-source
 ## Contribution Guidelines
 [Contribution Guidelines](Contribute)
 
-
-## Acknowledgements
 | Charudatta Korde | Amey Naik | Karan Rane | Vibhav Khedekar |
 | -----            | -----     | -----      | -----           |
+
+
+## Acknowledgements
+A heartfelt thank you to all the contributors who have poured their time, expertise, and passion into the “hand_written_devnagari_script_recognition” project! Your dedication has been instrumental in advancing research and development in the field of handwritten Devanagari script recognition. Together, we’re making strides toward accurate character identification, benefiting users of various Indian languages. Keep up the fantastic work! 🙌🌟
 
 ## Contact details
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=social&logo=github&logoColor=000000&labelColor=EA0A0A&color=EA0E0E)](https://github.com/charudatta10)
 [![Gmail](https://img.shields.io/badge/Gmail-100000?style=social&logo=Gmail&logoColor=F70B07&labelColor=151515&color=black)](mailto:152109007c@gmail.com)
 
 ## License
-MIT License
+[MIT License](License)
 
 Copyright © 2024 charudatta10
 
-[MIT License](License)
+
