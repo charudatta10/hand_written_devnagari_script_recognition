@@ -1,0 +1,17 @@
+1. **Fork the Repository**: Start by forking the repository on GitHub. This creates a copy of the project under your GitHub account.
+
+2. **Clone the Repository**: Clone the forked repository to your local machine using `git clone`.
+
+3. **Create a New Branch**: Before making any changes, create a new branch for your contribution. This helps keep the main branch clean and allows you to work on your feature or fix independently.
+
+4. **Make Your Changes**: Implement your changes, whether it's adding new features, fixing bugs, or improving documentation.
+
+5. **Commit Your Changes**: Commit your changes with descriptive commit messages. Use `git commit -m "Your message here"`.
+
+6. **Push to Your Fork**: Push your changes to your forked repository using `git push origin your-branch-name`.
+
+7. **Create a Pull Request (PR)**: Go to the original repository on GitHub and create a pull request from your forked branch to the main repository's branch. Provide a clear description of your changes in the PR.
+
+8. **Review and Iterate**: Collaborate with other contributors and maintainers during the review process. Make any necessary adjustments based on feedback.
+
+9. **Merge Your PR**: Once your PR is approved, it will be merged into the main branch. Congratulations, you've contributed to the project!
